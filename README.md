@@ -2,7 +2,7 @@
   💻<br>Portfólio - MAGAIVER MAGALHAES
 </h1>
 
-![Resultado final do projeto](assets/image/preview.png)
+
 
 <h4 align="center"></h4>
 
@@ -45,4 +45,5 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
     </td>
   </tr>
 </table>
+
 
